@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: @yummypopo
-- I'm Korean nice to meet you
+- I'm Korean. Nice to meet you.
 
 <!---
 yummygreengrape/yummygreengrape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
