@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yummygreengrape
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @greengrape
+- 👀 I’m interested in game.
+- 🌱 I’m currently learning Unity.
+- 💞️ I’m not looking to collaborate on yet.
 - 📫 How to reach me discord: @yummypopo
 - I'm Korean. Nice to meet you.
 
