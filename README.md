@@ -1,10 +1,10 @@
-- 🍇・청포도랍니다.
-- 🎮・게임을 좋아합니다.
-- ⌨️・게임 프로그래머 지망생.
-- 🎧・디코닉: @yummygrape
-- 😋・잘 부탁드려요!
+- 🍇・Nickname is Greengrape
+- ⌨️・Junior Developer
+- 🎮・Love playing games
+- 🎧・Discord Username: @yummygrape
+- 😋・I'm looking forward to working with all of you, Thanks! 
 
 
-<!---
-응애..
---->
+<! ---
+Waaah.
+---> 
