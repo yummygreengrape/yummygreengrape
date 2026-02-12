@@ -1,4 +1,4 @@
-- 🍇・Nickname is Greengrape
+- 🍇・Nickname is Greengrape, you can call me YG(YummyGrape)
 - ⌨️・Junior Developer
 - 🎮・Love playing games
 - 🎧・Discord Username: @yummygrape
