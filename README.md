@@ -1,4 +1,4 @@
-- 🍇・Nickname is Greengrape, you can call me YG(YummyGrape)
+- 🍇・Nickname is Greengrape, you can call me Podo(Grape in KR)
 - ⌨️・Junior Developer
 - 🎮・Love playing games
 - 🎧・Discord Username: @yummygrape
