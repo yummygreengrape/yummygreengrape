@@ -20,15 +20,21 @@ Recently, I’ve been interested in networking and security, automation, data pi
 
 → [dicoarki.com](https://dicoarki.com)
 
+---
+
 ### [Discord Datamining](https://github.com/yummygreengrape/discord-datamining)
 
 Discord 클라이언트의 실험, 문자열, API 변경을 자동으로 추적하는 프로젝트입니다.
 
 → [dicoarki.com/datamining](https://dicoarki.com/datamining) ([English](https://dicoarki.com/datamining?lang=en))
 
+---
+
 ### [RNGD Workload Sizer](https://github.com/yummygreengrape/rngd-workload-sizer)
 
 FuriosaAI RNGD NPU를 직접 측정하고 필요한 용량을 계산해 본 프로젝트입니다.
+
+---
 
 ### [Network Monitor](https://github.com/yummygreengrape/network-monitor)
 
