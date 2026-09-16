@@ -30,6 +30,14 @@ Discord 클라이언트의 실험, 문자열, API 변경을 자동으로 추적�
 
 FuriosaAI RNGD NPU를 직접 측정하고 필요한 용량을 계산해 본 프로젝트입니다.
 
+### [Network Monitor](https://github.com/yummygreengrape/network-monitor)
+
+지금 붙어 있는 네트워크에서 내 연결과 보안에 영향을 주는 일이 생겼는지 알려주는 macOS 도구입니다.
+
+연결 품질과 보안을 따로 판정하고, 판정마다 근거와 확신도를 함께 남깁니다.
+
+sudo 없이 동작하며, 다른 호스트를 스캔하거나 네트워크 식별자를 밖으로 보내지 않습니다.
+
 ## Stack
 
 `Python` · `TypeScript`
